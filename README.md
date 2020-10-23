@@ -1,1 +1,1 @@
-Only task 1 id done yet
+Only task 1 is done yet
