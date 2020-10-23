@@ -1,10 +1,15 @@
 import React from 'react';
 import './App.css';
 import InputSearch from './inputSearch/inputSearch';
+import ReadRandomNumber from './randomRead/randomRead'
 
 function App() {
   return ( 
-    <InputSearch/>
+    <div>
+      <InputSearch/>
+      <ReadRandomNumber/>
+    </div>
+    
    );
 }
 
